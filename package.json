@@ -1,0 +1,14 @@
+{
+  "name": "form-gen",
+  "version": "1.0.0",
+  "description": "Form Gen",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "author": "BHess2653",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
